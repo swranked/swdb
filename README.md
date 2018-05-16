@@ -1,0 +1,2 @@
+# swdb
+Hypixel Skywars Database.
